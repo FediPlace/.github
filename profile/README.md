@@ -1,6 +1,6 @@
 # FediPlace
 
-✨ **A Free and Federated Alternative to wplace.live** ✨
+✨ **A FOSS and Federated Alternative to wplace.live** ✨
 
 ---
 
